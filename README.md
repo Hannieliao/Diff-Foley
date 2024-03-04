@@ -1,3 +1,7 @@
+# Personal readme
+## Add requirements-training.txt
+
+
 # [NeurIPS 2023] Diff-Foley: Synchronized Video-to-Audio Synthesis with Latent Diffusion Models
 
 Offical implementation of the NeurIPS 2023 paper: *[Diff-Foley: Synchronized Video-to-Audio Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2306.17203v1)*.
